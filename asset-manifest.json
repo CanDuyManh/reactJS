@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactJS/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/reactJS/static/js/main.20ef5eec.chunk.js",
+    "main.js.map": "/reactJS/static/js/main.20ef5eec.chunk.js.map",
+    "runtime-main.js": "/reactJS/static/js/runtime-main.7a80581c.js",
+    "runtime-main.js.map": "/reactJS/static/js/runtime-main.7a80581c.js.map",
+    "static/js/2.067b7722.chunk.js": "/reactJS/static/js/2.067b7722.chunk.js",
+    "static/js/2.067b7722.chunk.js.map": "/reactJS/static/js/2.067b7722.chunk.js.map",
+    "static/js/3.4f71b906.chunk.js": "/reactJS/static/js/3.4f71b906.chunk.js",
+    "static/js/3.4f71b906.chunk.js.map": "/reactJS/static/js/3.4f71b906.chunk.js.map",
+    "index.html": "/reactJS/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/reactJS/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.067b7722.chunk.js.LICENSE.txt": "/reactJS/static/js/2.067b7722.chunk.js.LICENSE.txt",
+    "static/media/blog-post.1.16955a26.md": "/reactJS/static/media/blog-post.1.16955a26.md",
+    "static/media/blog-post.2.3d25258a.md": "/reactJS/static/media/blog-post.2.3d25258a.md",
+    "static/media/blog-post.3.b4b9d22a.md": "/reactJS/static/media/blog-post.3.b4b9d22a.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a80581c.js",
+    "static/js/2.067b7722.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.20ef5eec.chunk.js"
+  ]
+}
